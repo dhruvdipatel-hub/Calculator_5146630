@@ -1,9 +1,10 @@
 
-name: Java Tests
+name: Quiz 3 - 5146630
 
 on:
   push:
   pull_request:
+  workflow_dispatch:
 
 jobs:
   test:
